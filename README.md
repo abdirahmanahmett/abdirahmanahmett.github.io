@@ -1,2 +1,2 @@
-https://abdirahmanahmet.com
+https://abdirahmanahmet.github.io
 my profisional website
