@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<body>
+    <header role="banner">
+        <img src="Tanaad Banner.png"/>
+    </header>
+    <style>
+        img{
+            width: 1350px;
+            height: 280px;
+        }
+        
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+            width: 1350px;
+        }
+        li{
+            float: left;
+        }
+        li a{
+            display: block;color: white;text-align:center;
+            padding: 14px 16px;text-decoration: none;
+        }
+        li a:hover:not(:active){background-color: black;}
+        footer{background-color: black;
+            padding: 20;
+            font-size: 20px;
+            text-align: 
+            center;color: white;}
+            section{column-count: 2;}
+            
+    </style>
+   <nav>
+    <ul>
+        <li><a href="home.html">home</a></li>
+        <li><a href="news.html">news</a></li>
+        <li><a class="active" href="vedio.html">vedio</a></li>
+        <li><a href="about.html">about</a></li>
+        <li><a href="contact.html">contact</a></li>
+    </ul>
+</nav>
+    <video width="442" height="260" controls>
+        <source src="vedio(6).mp4">
+    </video>
+    <video width="442" height="260" controls>
+        <source src="vedio(5).mp4">
+    </video>
+    <video width="442" height="260" controls>
+        <source src="vedio(4).mp4">
+    </video>
